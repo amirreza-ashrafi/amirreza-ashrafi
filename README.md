@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, My name is Amirreza Ashrafi 👋
 
 I am a Python developer with a strong focus on backend development using the Django framework. I also have experience working with CSS and JavaScript to build clean and responsive web applications.
 
